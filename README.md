@@ -1,4 +1,3 @@
-xemplater
+Xemplater
 =========
-
-The EX Templating system created and maintained by Eternity Incurakai Studios
+***The EX Templating system created and maintained by Eternity Incurakai Studios***
